@@ -1,0 +1,18 @@
+.btn{
+    padding: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: rgb(238, 238, 238);
+}
+.btn1{
+    background-color: rgb(27, 161, 72);
+}
+.btn2{
+    background-color: rgb(194, 92, 14);
+}
+.btn3{
+    background-color: rgb(179, 33, 30);
+}
